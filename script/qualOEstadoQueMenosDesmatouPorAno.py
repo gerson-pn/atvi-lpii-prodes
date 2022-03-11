@@ -230,7 +230,7 @@ def menorDesmatamentoAnual(desmatamentoAnualPorEstado, anos):
                 dado = {
                     ano: {
                         estado: {
-                            'valorDesmatamento': valorDesmatamento
+                            'valorDesmatamento': valorDesmatamentoAno
                         }
                     }
                 }
